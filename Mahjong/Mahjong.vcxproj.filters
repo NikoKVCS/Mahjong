@@ -30,6 +30,12 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CDialogMain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CLLKButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Mahjong.cpp">
@@ -40,6 +46,12 @@
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDialogMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CLLKButton.cpp">
+      <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -63,6 +75,36 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="F:\桌面\a1d591253f7fe919a632e27821ee6c06_r (1).jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\c8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bg2.bmp">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>

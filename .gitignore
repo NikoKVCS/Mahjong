@@ -14,3 +14,6 @@ app/mapping.txt
 /.vs
 /Debug
 /x64
+
+/Mahjong/Debug
+/Mahjong/x64

@@ -323,6 +323,7 @@ void CLLKButton::OnLButtonDown(UINT nFlags, CPoint point)
 
 			firstBtn->ID = 0;
 			secondBtn->ID = 0;
+
 			if (game->IsFinished()) // 如果通关
 			{
 				MessageBox(_T("恭喜通过！！！"), _T("通关"));
